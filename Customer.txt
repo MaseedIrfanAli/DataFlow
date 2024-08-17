@@ -1,0 +1,6 @@
+id, name, city, age
+1, John Doe, New York, 30
+2, Jane Smith, Los Angeles, 25
+3, Michael Johnson, Chicago, 40
+4, Emily Davis, Houston, 35
+5, David Brown, Phoenix, 28
