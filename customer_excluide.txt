@@ -1,0 +1,10 @@
+1,John Smith,NY,28
+2,Emily Davis,CA,34
+3,Michael Brown,TX,21
+4,Linda Johnson,FL,45
+5,James Wilson,NY,19
+6,Patricia Garcia,CA,27
+7,Robert Martinez,TX,50
+8,Mary Anderson,FL,22
+9,William Thomas,NY,32
+10,Elizabeth Taylor,CA,40
