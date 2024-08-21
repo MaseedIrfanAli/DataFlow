@@ -1,0 +1,2 @@
+row[0], int(row([2]))
+| 'Window' >> beam.WindowInto(window.FixedWindows(10),allowed_lateness=Duration(seconds=2824*60*60)) // Allow lateness is set to 2 days.
